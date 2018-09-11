@@ -1,4 +1,4 @@
-# hello-wambo
+# hello-world
 dummy
 remote changes
 gio
